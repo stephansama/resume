@@ -18,5 +18,5 @@
 
 </div>
 
-![Stephan\_Randle\_CV\_1.png](https://github.com/stephansama/cv/releases/download/v0.6.2/Stephan_Randle_CV_1.png)
-![Stephan\_Randle\_CV\_2.png](https://github.com/stephansama/cv/releases/download/v0.6.2/Stephan_Randle_CV_2.png)
+![Stephan_Randle_CV_1.png](https://github.com/stephansama/cv/releases/download/v0.6.2/Stephan_Randle_CV_1.png)
+![Stephan_Randle_CV_2.png](https://github.com/stephansama/cv/releases/download/v0.6.2/Stephan_Randle_CV_2.png)
